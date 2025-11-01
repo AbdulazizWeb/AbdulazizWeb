@@ -3,9 +3,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/khushboqof), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/)
+- 📫 How to reach me: [telegram](https://t.me/sheikh77_uzb), [linkedin](https://www.linkedin.com/in/abdulaziz-bakhtiyorov-88a863211/)
 - ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
-- ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- reading books, praying and sport are the reasons to live.
 <br>
 
 <br>
@@ -38,19 +38,19 @@
       width="40" height="40" /> </a> </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboqof&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="khushboqof" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulazizWeb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="bakhtiyorov" 
     bg_color=#808080/></p>
 <br>
 
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=khushboqof&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulazizWeb&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboqof&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulazizWeb&theme=algolia&hide_border=true">
 
 </div>
 
-[khushboqof](https://github.com/khushboqof)
+[AbdulazizWeb](https://github.com/AbdulazizWeb)
 
