@@ -2,7 +2,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I am currently a .Net developer
+- 🌱 I am currently a FullStack software engineer
 - 📫 How to reach me: [telegram](https://t.me/sheikh77_uzb), [linkedin](https://www.linkedin.com/in/abdulaziz-bakhtiyorov-88a863211/)
 - ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
 - ⚡ Fun fact :- reading books, praying and sport are the reasons to live.
