@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=ABDULAZIZ%20BAKHTIYOROV&fontSize=32&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20FULLSTACK%20SOFTWARE%20ENGINEER%20🚀&descAlign=50&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-<img width="750" height="400" alt="image" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+<img width="100%" height="400" alt="image" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 </p>
 
 
