@@ -1,4 +1,4 @@
-<img width="100%"  alt="image" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DDF4E7,30:67C090,50:26667F,60:124170&text=Abdulaziz%20Bakhtiyorov&textBg=false&fontSize=35&desc=Software%20engineer&descSize=25&descAlign=82&descAlignY=45&fontAlign=73&fontAlignY=24&fontColor=ffffff" />
+<img width="100%"  alt="image" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DDF4E7,30:67C090,50:26667F,80:124170&text=Abdulaziz%20Bakhtiyorov&textBg=false&fontSize=35&desc=Software%20engineer&descSize=25&descAlign=82&descAlignY=45&fontAlign=73&fontAlignY=24&fontColor=ffffff" />
 
 <!-- <p align="center">
 <img width="60%"  alt="image" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
@@ -53,12 +53,6 @@
 
 ---
 
-### 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulazizWeb/AbdulazizWeb/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ### ✨ Quote of the Day
 > “The code you write today is a legacy someone will inherit tomorrow. Make it beautiful.”
