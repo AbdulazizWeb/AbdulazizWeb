@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=ABDULAZIZ%20BAKHTIYOROV&fontSize=32&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20FULLSTACK%20SOFTWARE%20ENGINEER%20🚀&descAlign=50&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="320" alt="coding animation"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw30qfJKtHNzC7VzDrmK81MT&ust=1764070635062000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiv5dfZipEDFQAAAAAdAAAAABAL" width="320" alt="coding animation"/>
 </p>
 
 ## 👋 Hey there, I’m Abdulaziz!
