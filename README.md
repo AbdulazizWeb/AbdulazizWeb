@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&color=gradient&text=Abdulaziz%20Bakhtiyorov&textBg=false&fontSize=35&desc=Software%20engineer&descSize=25&descAlign=82&descAlignY=45&fontAlign=73&fontAlignY=24)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Abdulaziz%20Bakhtiyorov&textBg=false&fontSize=35&desc=Software%20engineer&descSize=25&descAlign=82&descAlignY=45&fontAlign=73&fontAlignY=24)
 
 <p align="center">
 <img width="100%"  alt="image" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
