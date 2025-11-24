@@ -1,56 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ABDULAZIZ%20BAKHTIYOROV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&text=ABDULAZIZ%20BAKHTIYOROV&desc=.NET%20%7C%20FULLSTACK%20SOFTWARE%20ENGINEER%20%F0%9F%98%8E&animation=fadeIn&fontSize=25&fontAlign=70&fontAlignY=38&descAlign=80&color=gradient)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="right">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="230" alt="coding animation"/>
+</p>
 
-- 🌱 I am currently a FullStack software engineer
-- 📫 How to reach me: [telegram](https://t.me/sheikh77_uzb), [linkedin](https://www.linkedin.com/in/abdulaziz-bakhtiyorov-88a863211/)
-- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
-- ⚡ Fun fact :- reading books, praying and sport are the reasons to live.
-<br>
+### 👋 Hi there! I'm Abdulaziz Bakhtiyorov
+- 💻 Passionate **.NET Software Engineer** and **FullStack Developer**
+- 🚀 Building scalable systems with `.NET`, `ASP.NET Core`, `React`, and `PostgreSQL`
+- 🌱 Currently improving expertise in **clean architecture** and **cloud-native development**
+- 📫 Reach me on [Telegram](https://t.me/sheikh77_uzb) • [LinkedIn](https://www.linkedin.com/in/abdulaziz-bakhtiyorov-88a863211/)
+- ⚡ **Fun fact:** Coffee ☕, gym 🏋️, and learning 💡 keep me going!
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
-      alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
-      alt="c#" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
-      alt="c#" width="40" height="40" /> </a> <a href="https://www.learn-c.org/" target="_blank"
-  <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
-      alt="c#" width="40" height="40" /> </a> <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank"
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
-      alt="c#" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank"
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
-      alt="git" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
-      alt="visual studio code" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" alt="docker"
-      width="40" height="40" /> </a> </p>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulazizWeb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="bakhtiyorov" 
-    bg_color=#808080/></p>
-<br>
+---
 
+### 🧠 Languages & Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="45" title=".NET"/>
+  <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="45" title="C#"/>
+  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="45" title="React"/>
+  <img src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" width="45" title="PostgreSQL"/>
+  <img src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" width="45" title="Docker"/>
+  <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio.svg" width="45" title="Visual Studio"/>
+  <img src="https://cdn.cdnlogo.com/logos/v/18/visual-studio-code.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.cdnlogo.com/logos/g/18/github-icon.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.cdnlogo.com/logos/g/74/git-icon.svg" width="45" title="Git"/>
+</p>
 
+---
+
+### 📊 GitHub Stats
 <div align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulazizWeb&theme=algolia&hide_border=true&count_private=true&show_icons=true">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulazizWeb&theme=algolia&hide_border=true"> -->
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulazizWeb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulazizWeb&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
-[AbdulazizWeb](https://github.com/AbdulazizWeb)
+---
 
+### 🚀 My Coding Journey
+> From curiosity to mastery —  
+> I started coding in high school, fell in love with problem-solving,  
+> and now I architect and build scalable software with precision and passion.  
+> My focus: **writing clean code, building great teams, and creating impact.**
+
+---
+
+<p align="center">
+  <img src="https://github.com/AbdulazizWeb/AbdulazizWeb/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <b>⭐️ If you like my work, consider giving my repositories a star!</b>
+</p>
